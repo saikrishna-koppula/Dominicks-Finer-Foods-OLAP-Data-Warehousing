@@ -32,11 +32,11 @@ Enable multi-dimensional analysis using SSAS cubes for deeper insights.
 - Optimized query performance to ensure efficient data retrieval for dashboards and reports.
 
 ## Tools and Technologies
-- SSMS for database management and query development.
-- SSIS for building ETL pipelines.
-- SSRS for creating paginated reports.
-- SSAS for building analytical cubes.
-- Tableau and Power BI for creating interactive dashboards.
+- **SSMS** for database management and query development.
+- **SSIS** for building ETL pipelines.
+- **SSRS** for creating paginated reports.
+- **SSAS** for building analytical cubes.
+- **Tableau and Power BI** for creating interactive dashboards.
 
 ## Key Deliverables
 - A fully functional data warehouse tailored to Dominick’s Fine Food’s business needs.
