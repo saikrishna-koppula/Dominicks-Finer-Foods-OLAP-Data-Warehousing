@@ -23,10 +23,10 @@ Enable multi-dimensional analysis using SSAS cubes for deeper insights.
 - Designed reports in SSRS for operational and strategic analysis.
 - Enabled multi-dimensional data exploration using SSAS cubes to allow slicing and dicing by time, product, and store dimensions.
 ### 5. Business Use Cases Delivered:
-- Sales Performance Analysis: Dashboards showing sales trends by product category, store, and time period.
-- Pricing Optimization: Insights into pricing strategies and their impact on sales volume and revenue.
-- Inventory Management: Reports tracking stock levels, identifying overstocked or understocked products.
-- Customer Insights: Analysis of customer behavior, including purchase patterns and loyalty metrics.
+- **Sales Performance Analysis:** Dashboards showing sales trends by product category, store, and time period.
+- **Pricing Optimization:** Insights into pricing strategies and their impact on sales volume and revenue.
+- **Inventory Management:** Reports tracking stock levels, identifying overstocked or understocked products.
+- **Customer Insights:** Analysis of customer behavior, including purchase patterns and loyalty metrics.
 ### 6. Validation and Optimization:
 - Verified the accuracy of data and reports by cross-referencing with source systems.
 - Optimized query performance to ensure efficient data retrieval for dashboards and reports.
